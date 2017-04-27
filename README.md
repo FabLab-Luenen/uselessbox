@@ -10,5 +10,5 @@ Am Ende entstand so die Idee eine Useless Box anzufertigen und mit einem Arduino
 
 Dies ist der derzeitige Stand unseres Repos:
 - [x] Code für den Arduino Nano
-- [] Schaltbild
-- [] 3D Modelle
+- [ ] Schaltbild
+- [ ] 3D Modelle
